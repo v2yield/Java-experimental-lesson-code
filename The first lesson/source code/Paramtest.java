@@ -1,7 +1,3 @@
-/**
- * @author : wuye
- * @created : 2022-02-26
-**/
 public class Paramtest{
   public static void main(String args[]){
     System.out.println("\n第一个参数是:"+args[0]);

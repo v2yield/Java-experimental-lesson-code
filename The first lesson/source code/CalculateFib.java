@@ -1,7 +1,3 @@
-/**
- * @author : wuye
- * @created : 2022-02-26
-**/
 public class CalculateFib{
   public static void main(String args[]){
     int a = 1;

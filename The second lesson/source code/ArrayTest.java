@@ -1,8 +1,3 @@
-
-/**
- * @author : wuye
- * @created : 2022-02-26
-**/
 public class ArrayTest {
   public static void main (String[] args){
     int[] a;

@@ -1,7 +1,3 @@
-/**
- * @author : wuye
- * @created : 2022-02-26
-**/
 import java.util.*;
 public class GuessNumber{
   public static void main(String args[]){

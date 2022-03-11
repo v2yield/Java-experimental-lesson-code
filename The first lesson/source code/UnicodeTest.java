@@ -1,7 +1,3 @@
-/**
- * @author : wuye
- * @created : 2022-02-26
-**/
 import java.io.*;
 class UnicodeTest{
   public static void main(String args[]){
